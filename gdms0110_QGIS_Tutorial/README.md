@@ -6,5 +6,5 @@ The [QGIS tutorial by the Baruch College](https://guides.newman.baruch.cuny.edu/
 
 The guide [*Downloading Data for the GIS Practicum*](http://faculty.baruch.cuny.edu/geoportal/resources/practicum/giswkshp_download.pdf) describes how to download and extract the zip archive of the course material.
 
-The material can be downloaded from the [*main course website*](https://www.baruch.cuny.edu/confluence/display/geoportal/GIS+Practicum).
+The material can be downloaded from the [**main course website**](https://www.baruch.cuny.edu/confluence/display/geoportal/GIS+Practicum).
 
