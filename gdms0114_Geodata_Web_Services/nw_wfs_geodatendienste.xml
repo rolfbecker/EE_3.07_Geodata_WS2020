@@ -1,0 +1,14 @@
+<!--Stand: 05.11.2020-->
+<!DOCTYPE connections>
+<qgsWFSConnections version="1.0">
+    <wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_atkis-basis-dlm_aaa-modell-basiert" name="NW ATKIS Basis-DLM"/>
+    <wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_alkis_aaa-modell-basiert" name="NW Liegenschaftskataster NRW; ALKIS-AAA-Modell-basiert"/>
+    <wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_alkis_vereinfacht" name="NW Liegenschaftskataster NRW; ALKIS-vereinfachtes Schema"/>
+    <wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_dvg" name="NW Topographische Sonderkarten; Verwaltungsgrenzen"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_bodenbewegungsgebiete_kacheln" name="NW Bodenbewegungsgebiete Kacheln"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_utm_kacheln" name="NW Übersicht; UTM Kacheln"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_tfis" name="NW Touristik- und Freizeitinformationen NRW"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_tfis_aaa-modell-basiert" name="NW Touristik- und Freizeitinformationen NRW; TFIS-AAA-Modell-basiert"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_3d-gebaeudemodell_lod1" name="NW 3D-Gebäudemodelle"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_alkis_nas-konform" name="NW ALKIS NAS-konform"/>
+</qgsWFSConnections>
