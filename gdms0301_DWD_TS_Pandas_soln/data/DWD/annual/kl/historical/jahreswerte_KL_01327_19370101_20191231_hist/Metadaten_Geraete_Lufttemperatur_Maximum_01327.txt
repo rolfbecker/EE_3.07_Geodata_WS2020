@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1327;Euskirchen;;;;;19370101;19460630;Gerätetyp unbekannt;Temperaturmessung, konv.;eor;
+1327;Euskirchen;6.78;50.65;170;2;19460701;19531126;Maximumthermometer;Temperaturmessung, konv.;eor;
+1327;Euskirchen;6.78;50.65;164;2;19531127;19560702;Maximumthermometer;Temperaturmessung, konv.;eor;
+1327;Euskirchen;6.79;50.65;178;2;19560703;19940415;Maximumthermometer;Temperaturmessung, konv.;eor;
+1327;Euskirchen;6.79;50.67;160;2.2;19940416;20040421;Maximumthermometer;Temperaturmessung, konv.;eor;
+1327;Weilerswist-Lommersum;6.79;50.71;147;2;20040422;20200830;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 31.08.2020 --  Deutscher Wetterdienst  --

@@ -19,5 +19,5 @@ tmp/
 #!gdms0100_DWD_NRW_soln
 !gdms0101_HW_Map_soln
 #!gdms0201_DWD_NRW_long_TS_soln
-#!gdms0301_DWD_TS_Pandas_soln
+!gdms0301_DWD_TS_Pandas_soln
 #!gdms0601_DWD_Stations_and_TS_for_TM_soln
