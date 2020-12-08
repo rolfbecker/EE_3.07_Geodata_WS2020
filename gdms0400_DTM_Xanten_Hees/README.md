@@ -20,7 +20,7 @@ to be done
 
 to be done
 
-## Create Hillshape Model
+## Create Hillshade Model
 
 to be done
 
