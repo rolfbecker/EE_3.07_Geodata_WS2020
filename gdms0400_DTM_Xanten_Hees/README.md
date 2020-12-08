@@ -8,7 +8,7 @@ to be done
 
 to be done
 
-## Identfy relevant DTM Tiles
+## Identify relevant DTM Tiles
 
 to be done
 
