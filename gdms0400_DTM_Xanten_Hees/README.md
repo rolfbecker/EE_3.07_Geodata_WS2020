@@ -26,6 +26,6 @@ to be done
 
 ## Evaltuate DTM at Points from a Point Layer
 
-* (Sampling Raster Data using Points or Polygons (QGIS3))[https://www.qgistutorials.com/en/docs/3/sampling_raster_data.html]
+* [Sampling Raster Data using Points or Polygons (QGIS3)](https://www.qgistutorials.com/en/docs/3/sampling_raster_data.html)
 
 to be done
