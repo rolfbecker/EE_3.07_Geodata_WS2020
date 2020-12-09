@@ -26,10 +26,10 @@ to be done
 
 ## Evaltuate DTM at Points from a Point Layer
 
-* [Sampling Raster Data using Points or Polygons (QGIS3)](https://www.qgistutorials.com/en/docs/3/sampling_raster_data.html)
+* [Sampling Raster Data using Points or Polygons (QGIS3)](https://www.qgistutorials.com/en/docs/3/sampling_raster_data.html) (Video)
 
 to be done
 
 ## Additional Tasks
 
-* [Install GDAL on Windows | burdGIS](https://www.youtube.com/watch?v=4viTd3n9C9g)
+* [Install GDAL on Windows | burdGIS](https://www.youtube.com/watch?v=4viTd3n9C9g) (Video)
