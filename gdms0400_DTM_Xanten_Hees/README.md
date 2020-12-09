@@ -4,11 +4,15 @@
 
 to be done
 
-## Convert XYZ to GTiff 
+## Create a Layer with Bounding Boxes for Downloaded Tiles
 
 to be done
 
 ## Identify relevant DTM Tiles
+
+to be done
+
+## Convert XYZ to GTiff 
 
 to be done
 
