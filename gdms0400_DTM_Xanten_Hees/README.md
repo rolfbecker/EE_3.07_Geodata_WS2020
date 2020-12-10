@@ -4,11 +4,15 @@
 
 to be done
 
-## Convert XYZ to GTiff 
+## Create a Layer with Bounding Boxes for Downloaded Tiles
 
 to be done
 
-## Identfy relevant DTM Tiles
+## Identify relevant DTM Tiles
+
+to be done
+
+## Convert XYZ to GTiff 
 
 to be done
 
@@ -20,11 +24,16 @@ to be done
 
 to be done
 
-## Create Hillshape Model
+## Create Hillshade Model
 
 to be done
 
 ## Evaltuate DTM at Points from a Point Layer
 
+* [Sampling Raster Data using Points or Polygons (QGIS3)](https://www.qgistutorials.com/en/docs/3/sampling_raster_data.html) (Video)
+
 to be done
 
+## Additional Tasks
+
+* [Install GDAL on Windows | burdGIS](https://www.youtube.com/watch?v=4viTd3n9C9g) (Video)
