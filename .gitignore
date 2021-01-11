@@ -4,6 +4,7 @@
 # Use .gitignore to not share all solutions at once.
 # By default ignore all directories containing solutions denoted by trailing pattern _soln
 
+gi*/
 *_soln/
 *_dev/
 *_tmp/
