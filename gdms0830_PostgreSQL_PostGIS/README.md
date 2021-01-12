@@ -1,11 +1,11 @@
 
 # PostgreSQL / PostGIS
 
-PostgreSQL is a powerful object relational database management system (ORDBMS). A relational database is based on so-called relations which are realised in form of tables in the database. The SQL language is used to query and manipulate the data as well as to create the data model (create tables, views, keys, indexes, etc). The type //relational database management system// (RDBMS) is still the most important industry standard for database management systems (DBMS) in general. Every Enterprise Resource Planning (ERP) System such as SAP, Microsoft Dynamics or Oracle is based on RDBMS.
+PostgreSQL is a powerful object relational database management system (ORDBMS). A relational database is based on so-called relations which are realised in form of tables in the database. The SQL language is used to query and manipulate the data as well as to create the data model (create tables, views, keys, indexes, etc). The type *relational database management system* (RDBMS) is still the most important industry standard for database management systems (DBMS) in general. Every Enterprise Resource Planning (ERP) System such as SAP, Microsoft Dynamics or Oracle is based on RDBMS.
 
 PostgreSQL is not only the most powerful open source RDBMS but also even object-relational (ORDMBS). This means that more complex datatypes (aka abstract data types, ADT) together with methods (aka stored procedures) operating on these complex datatypes are provided in the ORDBMS.
 
-PostGIS is indeed a ProstgreSQL extension providing geometric datatypes such polygons together with methods operating on them (e.g. intersection) in the database. Have a glimpse at chapter //11. Spatial Relationships// of the PostGIS workshop to get an idea of the concept: 
+PostGIS is indeed a ProstgreSQL extension providing geometric datatypes such polygons together with methods operating on them (e.g. intersection) in the database. Have a glimpse at chapter *11. Spatial Relationships* of the PostGIS workshop to get an idea of the concept: 
 http://postgis.net/workshops/postgis-intro/spatial_relationships.html
 
 
