@@ -17,7 +17,9 @@ Follow the [tutorial by Chris Marx from ZevRoss](http://zevross.com/blog/2019/12
 
 The main official ProsgreSQL documentation of the currect ODBMS version is found here: https://www.postgresql.org/docs/current/ 
 
+* [PSQL Command Line Interface (CLI)](https://www.postgresql.org/docs/current/app-psql.html)
 * [SQL Commands](https://www.postgresql.org/docs/current/sql-commands.html)
+
 
 
 
