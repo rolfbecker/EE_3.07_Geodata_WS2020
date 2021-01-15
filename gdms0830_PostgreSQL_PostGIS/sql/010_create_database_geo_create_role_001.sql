@@ -1,3 +1,7 @@
+
+-- connect as user postgres to the maintenance database postgres and create the database geo.
+-- psql -U postgres -d postgres -f 010_create_database_geo_create_role_001.sql
+
 CREATE ROLE geo_master WITH
 	LOGIN
 	NOSUPERUSER
