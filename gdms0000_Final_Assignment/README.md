@@ -2,8 +2,8 @@
 
 ## 0. General Remarks
 
-* Due date is 2021-03-07
-* You have to give a live presentation in the class! Date is to be annouced (end of Feb, beginning of March)!
+1. Due date is 2021-03-07
+1. You have to give a live presentation in the class! Date is to be annouced (end of Feb, beginning of March)!
 * You can work in groups of 1 - 3 students. A Moodle course for the group definititon has still to be st up!
 * Use your own GitLab repository to document your work. THIS IS MANDATORY! Use a `REAMDE.md` file (and more .md-files, if needed) to describe your work. Python code has to be described in Jupyter Notebooks. Push all relevant files into the repo (README.md, all Python code, QGIS projects, etc.). 
 * Create your own repo on the University Gitlab server: https://git.hsrw.eu/. **USE THE FOLLWING REPO NAME:** `GeoData_WS2020_II_Final_<your mat.no.>`, (e.g. GeoData_WS2020_II_Final_98765)
