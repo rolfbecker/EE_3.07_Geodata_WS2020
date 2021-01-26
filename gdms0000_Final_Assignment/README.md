@@ -1,6 +1,6 @@
 # !!!DRAFT!!! <br>EE_3.07 Geodata Management Systems - Final Assignment <br>!!!DRAFT!!! 
 
-## 1. DWD Precipitation Measurements in NRW: Create Movie with QGIS Time Manager
+## 1. DWD Precipitation Measurements in Bavaria: Create Movie with QGIS Time Manager
 
 The first task for you will be to produce a video on **DWD hourly precipitation data** by means of QGIS Time Manager. 
 Have a look at the sample video on YouTube showing the temporal precipitation development in NRW for May 2019:
@@ -23,20 +23,7 @@ In the first lectures we analysed the annual temperature in NRW by means of long
 
 **Task 2:**
 
-Verify this hypothesis by means of data in Bavaria. This federal state reveals the broadest range of topographic heights, from 100m to more than 2800m above Normal-Null (NN). **Plot the annual mean temperatures of year 2018 versus altitude for the DWD stations in Bavaria**. At first use the altitudes from the station description file `KL_Jahreswerte_Beschreibung_Stationen.txt` for the data set `/annual/kl/recent/`.
-
-Do do so create a 'long' Pandas data frame by sequentially appending all time series data from the recent KL (Klima, Climate) data set where the year is 2018 and the state is Bavaria. Finally analyse the column with the mean annual temperature. Have a look at the metadata if you forgot the column name. 
-
-You can **start with the Jupyter Notebook `gdms0641_DWD_Annual_Temp_vs_Altitude_Vnnn`** in which the analysis is done for NRW. The data format of the KL time series differs significantly from the precipitation data set R1. A respective function is provided in the notebook.
-
-The analysis for NRW yields the following diagram:
-
-<img src="images/fig1_NRW.png"  width="600">
-<br> *Fig.: Annual mean temperatures in 2018 versus altitude of DWD stations in NRW*.
-
-Generate a plot similar to the above figure but for Bavaria and year 2019.
-
-You will probably observe **outliers**. Where do they come from? Analyse the reason.
+Verify this hypothesis by means of data in Bavaria. This federal state reveals the broadest range of topographic heights, from 100m to more than 2800m above Normal-Null (NN). **Plot the annual mean temperatures of years 2017, 2018, and 2019 versus altitude for the DWD stations in Bavaria**. At first use the **altitudes from the station description file** `KL_Jahreswerte_Beschreibung_Stationen.txt` for the data set `/annual/kl/historical/`.
 
 
 ## 3. Merge Digital Terrain Model DGM50 for Bavaria from Tiles
