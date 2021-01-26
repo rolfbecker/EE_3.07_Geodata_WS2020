@@ -55,9 +55,7 @@ THe processing chain consisting of Python code and QGIS project to create the vi
 You should not cover more than two weeks for the video sequence to minimize the processing time.
 
 
-
-
-## 4. Compare NDVI for Two Different Years
+## 3. Compare NDVI for Two Different Years
 
 In the last lectures, we talked about remote sensing and how we could use satellite data (Sentinel-2) to obtain information about the earth’s surface based on the spectral properties (i.e. spectral reflectance) of materials such as vegetation and soil without being in contact with the surface itself. We discussed how normalized difference vegetation index (NDVI) can be used to assess the plant´s ability to absorb solar radiation and use this to characterize the plant’s health.
 Your task is to analyse the NDVI in the summer periods (May-June) of the years 2018 and 2019 in your own regions of interest (ROI). Define your own ROIs by creating polygons delineating areas with one landuse class per polygon. You should create at least one polygon for each of the following landuse classes:
@@ -86,11 +84,9 @@ Notice that one polygon might contain more than one NDVI value (more than 1 pixe
 
 ## PostGIS / PostgreSQL
 
-## Map
-
 ## Digitization
 
-## N. FREE EXERCISE
+## FREE EXERCISE
 
 Do something exiting!
 
