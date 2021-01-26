@@ -1,4 +1,4 @@
-# EE_3.07 Geodata Management Systems - Final Assignment
+# DRAFT!!! EE_3.07 Geodata Management Systems - Final Assignment DRAFT!!! 
 
 ## 1. DWD Precipitation Measurements in NRW: Create Movie with QGIS Time Manager
 
@@ -11,7 +11,7 @@ alt="QGIS Time Manager: DWD Precipitation Data for NRW" width="300" border="10" 
 
 _Fig.: YouTube video showing the temporal evolution of DWD precipitation data in NRW for May 2019._
 
-THe processing chain consisting of Python code and QGIS project to create the video is found in the Git folder [**gdms0601_DWD_Stations_and_TS_for_TM_soln**](https://gitlab.spectors.eu/rolf/EE_3.07_Geodata_WS2019/tree/master/gdms0601_DWD_Stations_and_TS_for_TM_soln)
+THe processing chain consisting of Python code and QGIS project to create the video is found in the Git folder [**gdms0350_DWD_Stations_and_TS_for_TM_soln**](../gdms0350_DWD_Stations_and_TS_for_TM_soln/)
 
 **Task 1:**  Produce your own video by applying the processing chain to another period in time other than May 2019. Find an interesting sequence of rain events first by plotting a few time series. 
 You should not cover more than two weeks for the video sequence to minimize the processing time.
