@@ -13,7 +13,7 @@ _Fig.: YouTube video showing the temporal evolution of DWD precipitation data in
 
 THe processing chain consisting of Python code and QGIS project to create the video is found in the Git folder [**gdms0350_DWD_Stations_and_TS_for_TM_soln**](../gdms0350_DWD_Stations_and_TS_for_TM_soln/)
 
-**Task 1:**  Produce your own video by applying the processing chain to another period in time other than May 2019. Find an interesting sequence of rain events first by plotting a few time series. 
+**Task 1:**  Produce your own video **for BAVARIA** by applying the processing chain to another period in time other than May 2019. Find an interesting sequence of rain events first by plotting a few time series. 
 You should not cover more than two weeks for the video sequence to minimize the processing time.
 
 <!-- blank line -->
