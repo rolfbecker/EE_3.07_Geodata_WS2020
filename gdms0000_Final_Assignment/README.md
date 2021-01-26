@@ -1,8 +1,8 @@
-# EE_3.07 Geodata Management Systems - Final Assignment
+# !!!DRAFT!!! <br>EE_3.07 Geodata Management Systems - Final Assignment <br>!!!DRAFT!!! 
 
 ## 1. DWD Precipitation Measurements in NRW: Create Movie with QGIS Time Manager
 
-The first task for you will be to produce a video on DWD precipitation data by means of QGIS Time Manager. 
+The first task for you will be to produce a video on **DWD hourly precipitation data** by means of QGIS Time Manager. 
 Have a look at the sample video on YouTube showing the temporal precipitation development in NRW for May 2019:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=fdCQBbzyD84
@@ -11,16 +11,10 @@ alt="QGIS Time Manager: DWD Precipitation Data for NRW" width="300" border="10" 
 
 _Fig.: YouTube video showing the temporal evolution of DWD precipitation data in NRW for May 2019._
 
-THe processing chain consisting of Python code and QGIS project to create the video is found in the Git folder [**gdms0601_DWD_Stations_and_TS_for_TM_soln**](https://gitlab.spectors.eu/rolf/EE_3.07_Geodata_WS2019/tree/master/gdms0601_DWD_Stations_and_TS_for_TM_soln)
+THe processing chain consisting of Python code and QGIS project to create the video is found in the Git folder [**gdms0350_DWD_Stations_and_TS_for_TM_soln**](../gdms0350_DWD_Stations_and_TS_for_TM_soln/)
 
-**Task 1:**  Produce your own video by applying the processing chain to another period in time other than May 2019. Find an interesting sequence of rain events first by plotting a few time series. 
+**Task 1:**  Produce your own video **for BAVARIA** by applying the processing chain to a period of **40 days** covering an **interesting rain event in 2017**. You have to use the **historical hourly precipitation data in 2017**. Find an interesting sequence of rain events first by plotting a few time series. 
 You should not cover more than two weeks for the video sequence to minimize the processing time.
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/fdCQBbzyD84" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
 
 
 ## 2. Correlation of Mean Annual Temperature with Altitude
