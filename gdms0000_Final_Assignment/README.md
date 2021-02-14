@@ -4,12 +4,14 @@
 ## 0. General Remarks
 
 1. Due date is 2021-03-21. 
-1. You do not have to write a formal report but you have to sketch the steps you have taken to do the analyses. You have to enable us to redo your work completely again. You have to produce a presentation and upload your Python scripts as well as QGIS projects without large datasets to a gitlab repository.
-1. Use your own GitLab repository to document your work. THIS IS MANDATORY! Use a `REAMDE.md` file (and more .md-files, if needed) to describe your work. Python code has to be 1. In March you have to give a live presentation in the class so that I can assess better if the work you hand in is your own work.
+1. You do not have to write a formal report but you have to sketch the steps you have taken to do the analyses. Your documentation has to enable us to redo your work completely again! 
+1. Use your own GitLab repository to document your work. THIS IS MANDATORY! Use a `REAMDE.md` file (and more .md-files, if needed) to describe your work. Upload your Python scripts as well as QGIS projects without large datasets to the repository.
+1. Use Jupyter Notebook markdown cells to describe your Python code. 
+1. You have to produce a presentation (Powerpoint or similar) and upload it to your Git repo. 
+1. In the second or third week in March you have to give a live presentation in the class so that I can assess better if you understood what you did. **The date will be announced.** 
 1. You can work in groups of 1 - 3 students. You can do the group assignments in our Moodle course.
-described in Jupyter Notebooks. Push all relevant files into the repo (README.md, all Python code, QGIS projects, etc.). 
-1. Create your own repo on the **University Gitlab server: https://git.hsrw.eu/**. <br>**USE THE FOLLWING REPO NAME:** `GeoData_WS2020_II_Final_<Group ID>`, (e.g. GeoData_WS2020_II_Final_Group_Z)
-1. I will clone your Gitlab repo at the end of deadline. That will be the basis of my assessment.
+1. Create your own repo on the **University Gitlab server: https://git.hsrw.eu/**. <br>**USE THE FOLLWING REPO NAME:** `GeoData_WS2020_II_Final_<Group ID>`, (e.g. GeoData_WS2020_II_Final_Group_Z). (We still have a technical problem with the upload size but we will fix it).
+1. I will clone your Gitlab repo at the end of deadline. That will be the main basis of my assessment.
 
 
 ## 1. Correlation of Mean Annual Temperature with Altitude in Bavaria
