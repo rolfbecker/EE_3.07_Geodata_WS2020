@@ -91,7 +91,7 @@ Notice that one polygon might contain more than one NDVI value (more than 1 pixe
 <img src="images/Burial_Mounds.png" alt="Burial Mounds Map" width="600" border="10" /><br>
 *Fig.: Burial mounds in Uedemer Hochwald.*
 
-South west of the village Marienbaum (belongs to Xanten municipality) is the forest "Uedemer Hochwald" in which many burial mounds from the Hallstatt period (a Celtic culture
+South west of the village Marienbaum (belongs to Xanten municipality) is the forest "Uedemer Hochwald" in which many burial mounds (German: Hügelgrab (sg.), Hügelgräber (pl.)) from the Hallstatt period (a Celtic culture
  between 850 and 450 BCE) can be found. The above picture shows a map section with some of the burial mounds indicated as grey dots. 
  
 **Task 1:** <br> 
