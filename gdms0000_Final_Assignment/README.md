@@ -90,7 +90,7 @@ The new [opengeo repository](https://github.com/rolfbecker/opengeo) is under con
 
 ## 5. Digitization: Burial mounds in Uedemer Hochwald
 
-
+<img src="images/Burial_Mounds.png" alt="Burial Mounds Map" width="600" border="10" />
 
 ## 6. FREE EXERCISE
 
