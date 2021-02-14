@@ -55,7 +55,8 @@ _Fig.: YouTube video showing the temporal evolution of DWD precipitation data in
 
 THe processing chain consisting of Python code and QGIS project to create the video is found in the Git folder [**gdms0350_DWD_Stations_and_TS_for_TM_soln**](../gdms0350_DWD_Stations_and_TS_for_TM_soln/)
 
-**Task 1:**  Produce your own video **for BAVARIA** by applying the processing chain to a period of **40 days** covering an **interesting rain event in 2017**. You have to use the **historical hourly precipitation data in 2017**. Find an interesting sequence of rain events first by plotting a few time series. 
+**Task 1:** <br> 
+Produce your own video **for BAVARIA** by applying the processing chain to a period of **40 days** covering an **interesting rain event in 2017**. You have to use the **historical hourly precipitation data in 2017**. Find an interesting sequence of rain events first by plotting a few time series. 
 
 
 ## 3. Compare NDVI for Two Different Years
@@ -93,15 +94,20 @@ Notice that one polygon might contain more than one NDVI value (more than 1 pixe
 South west of the village Marienbaum (belongs to Xanten municipality) is the forest "Uedemer Hochwald" in which many burial mounds from the Hallstatt period (a Celtic culture
  between 850 and 450 BCE) can be found. The above picture shows a map section with some of the burial mounds indicated as grey dots. 
  
-**Task 1:** Georeference this picture by means of the QGIS Georeferencer together with the topographic map 1:10000 already imported from a WMS in the QGIS project `gdms0000_Burial_Mounds_Uedem_V001.qgz`. Use crossing forest trails, crossroads, road junctions and other features you can identify as land marks (aka ground control points, GCP) with known coordinates (can be read from the QGIS map canvas). Use EPSG:25832. 
+**Task 1:** <br> 
+Georeference this picture by means of the QGIS Georeferencer together with the topographic map 1:10000 already imported from a WMS in the QGIS project `gdms0000_Burial_Mounds_Uedem_V001.qgz`. Use crossing forest trails, crossroads, road junctions and other features you can identify as land marks (aka ground control points, GCP) with known coordinates (can be read from the QGIS map canvas). Use EPSG:25832. 
  
-**Task 2:** Load the DTM hillshade model provided as a WMS. The German word for hillshade is "Schummerung". Plot the georeferenced map partly transparent on top of the hillshade model. What do you observe? How good is the map section showing the burial mounds? 
+**Task 2:** <br> 
+Load the DTM hillshade model provided as a WMS. The German word for hillshade is "Schummerung". Plot the georeferenced map partly transparent on top of the hillshade model. What do you observe? How good is the map section showing the burial mounds? 
  
-**Task 3:** Load the DTM located in the project folder. Create your own hillshade model from it. Follow this QGIS video tutorial:  https://www.youtube.com/watch?v=GK9aBRVJdRo
+**Task 3:** <br> 
+Load the DTM located in the project folder. Create your own hillshade model from it. Follow this QGIS video tutorial:  https://www.youtube.com/watch?v=GK9aBRVJdRo
 
-**Task 4:** Use the DTM and measure the typical mound heights above ground (niot above sealevel!). What is their typical elvation above ground?
+**Task 4:** <br> 
+Use the DTM and measure the typical mound heights above ground (niot above sealevel!). What is their typical elvation above ground?
 
-**Task 5:** Study the hillshade model in direction East-North-East of the burial mounds area and search for regular structures which are not paths. What do you observe? Do you have a guess about the origin of these patterns?
+**Task 5:** <br> 
+Study the hillshade model in direction East-North-East of the burial mounds area and search for regular structures which are not paths. What do you observe? Do you have a guess about the origin of these patterns?
 
 ## 5. FREE EXERCISE
 
