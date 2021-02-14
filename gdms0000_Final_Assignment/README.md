@@ -81,7 +81,7 @@ Notice that one polygon might contain more than one NDVI value (more than 1 pixe
 **ATTENTION: Some of you have already chosen a different approach. This is totally acceptable!** We just want you to analyse Sentinel-2 images with respect to NDVI and its changes over time (here: only two years) as well as to reflect power and limitations of remote sensing.
 
 
-## PostGIS / PostgreSQL
+## 4. PostGIS / PostgreSQL
 
 Produce another precipitation video for a period of 40 days in 2020 (recent hourly precipitation data in BAVARIA) by means of your own **PostGIS geodatabase**. Follow the **Jupyter Notebook tutorial** of [geo0930_PostGIS_Insert_DWD_Stations_and_TS](https://github.com/rolfbecker/opengeo/tree/main/geo0930_PostGIS_Insert_DWD_Stations_and_TS) together with the respective **YouTube tutorial** (search for geo0930 on YouTube). 
 
