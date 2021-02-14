@@ -3,10 +3,11 @@
 
 ## 0. General Remarks
 
-1. Due date is 2021-03-07
-1. You have to give a live presentation in the class! Date is to be annouced (end of Feb, beginning of March)!
+1. Due date is 2021-03-21. 
+1. You do not have to write a formal report but you have to sketch the steps you have taken to do the analyses. You have to enable us to redo your work completely again. You have to produce a presentation and upload your Python scripts as well as QGIS projects without large datasets to a gitlab repository.
+1. Use your own GitLab repository to document your work. THIS IS MANDATORY! Use a `REAMDE.md` file (and more .md-files, if needed) to describe your work. Python code has to be 1. In March you have to give a live presentation in the class so that I can assess better if the work you hand in is your own work.
 1. You can work in groups of 1 - 3 students. You can do the group assignments in our Moodle course.
-1. Use your own GitLab repository to document your work. THIS IS MANDATORY! Use a `REAMDE.md` file (and more .md-files, if needed) to describe your work. Python code has to be described in Jupyter Notebooks. Push all relevant files into the repo (README.md, all Python code, QGIS projects, etc.). 
+described in Jupyter Notebooks. Push all relevant files into the repo (README.md, all Python code, QGIS projects, etc.). 
 1. Create your own repo on the **University Gitlab server: https://git.hsrw.eu/**. <br>**USE THE FOLLWING REPO NAME:** `GeoData_WS2020_II_Final_<Group ID>`, (e.g. GeoData_WS2020_II_Final_Group_Z)
 1. I will clone your Gitlab repo at the end of deadline. That will be the basis of my assessment.
 
