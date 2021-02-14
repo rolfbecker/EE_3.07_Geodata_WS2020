@@ -107,7 +107,7 @@ Load the DTM located in the project folder. Create your own hillshade model from
 Use the DTM and measure the typical mound heights above ground (niot above sealevel!). What is their typical elvation above ground?
 
 **Task 5:** <br> 
-Study the hillshade model in direction East-North-East of the burial mounds area and search for regular structures which are not paths. What do you observe? Do you have a guess about the origin of these patterns?
+Study the hillshade model in direction East-North-East of the burial mounds area and search for regular structures which are not paths. What do you observe? Do you have a guess about the origin of these patterns? Choose at least one of the structures and digitize it and save it as a geopackage.
 
 ## 5. PostGIS / PostgreSQL: Spatio-temporal precipition anmination, 2nd approach.
 
