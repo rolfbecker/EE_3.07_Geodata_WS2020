@@ -91,7 +91,7 @@ Notice that one polygon might contain more than one NDVI value (more than 1 pixe
 <img src="images/Burial_Mounds.png" alt="Burial Mounds Map" width="600" border="10" /><br>
 *Fig.: Burial mounds in Uedemer Hochwald.*
 
-South west of the village Marienbaum (belongs to Xanten municipality) is the forest "Uedemer Hochwald" in which many burial mounds (German: Hügelgrab (sg.), Hügelgräber (pl.)) from the Hallstatt period (a Celtic culture
+South west of the village Marienbaum (belongs to Xanten municipality) is the forest "Uedemer Hochwald" in which many burial mounds (German: Hügelgrab (sg.), Hügelgräber (pl.)) from our ancestors of the Hallstatt period (a Celtic culture
  between 850 and 450 BCE) can be found. The above picture shows a map section with some of the burial mounds indicated as grey dots. 
  
 **Task 1:** <br> 
@@ -109,21 +109,12 @@ Use the DTM and measure the typical mound heights above ground (niot above seale
 **Task 5:** <br> 
 Study the hillshade model in direction East-North-East of the burial mounds area and search for regular structures which are not paths. What do you observe? Do you have a guess about the origin of these patterns?
 
-## 5. FREE EXERCISE
-
-Do something exiting!
-
-## 6. Extra Task - PostGIS / PostgreSQL: Spatio-temporal precipition anmination, 2nd approach.
+## 5. PostGIS / PostgreSQL: Spatio-temporal precipition anmination, 2nd approach.
 
 Produce another precipitation video for a period of 40 days in 2020 (recent hourly precipitation data in BAVARIA) by means of your own **PostGIS geodatabase**. Follow the **Jupyter Notebook tutorial** of [geo0930_PostGIS_Insert_DWD_Stations_and_TS](https://github.com/rolfbecker/opengeo/tree/main/geo0930_PostGIS_Insert_DWD_Stations_and_TS) together with the respective **YouTube tutorial** (search for geo0930 on YouTube). 
 
 The new [opengeo repository](https://github.com/rolfbecker/opengeo) is under construction. I am using it to reorganize my teaching material. It will be filled step by step. 
 
+## 6. FREE EXERCISE
 
-
-
-
-
-
-
- 
+Do something exiting!
