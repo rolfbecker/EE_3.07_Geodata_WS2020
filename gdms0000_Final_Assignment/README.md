@@ -86,7 +86,7 @@ Notice that one polygon might contain more than one NDVI value (more than 1 pixe
 **ATTENTION: Some of you have already chosen a different approach. This is totally acceptable!** We just want you to analyse Sentinel-2 images with respect to NDVI and its changes over time (here: only two years) as well as to reflect power and limitations of remote sensing.
 
 
-## 4. Digitization: Burial mounds in Uedemer Hochwald
+## 4. Digitization: Burial Mounds in Uedemer Hochwald
 
 <img src="images/Burial_Mounds.png" alt="Burial Mounds Map" width="600" border="10" /><br>
 *Fig.: Burial mounds in Uedemer Hochwald.*
