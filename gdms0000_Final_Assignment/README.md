@@ -109,12 +109,13 @@ Use the DTM and measure the typical mound heights above ground (niot above seale
 **Task 5:** <br> 
 Study the hillshade model in direction East-North-East of the burial mounds area and search for regular structures which are not paths. What do you observe? Do you have a guess about the origin of these patterns? Choose at least one of the structures and digitize it and save it as a geopackage.
 
-## 5. PostGIS / PostgreSQL: Spatio-temporal precipition anmination, 2nd approach.
+## 5. FREE EXERCISE
+
+Do something exiting!
+
+## 6. Extra Exercise - PostGIS / PostgreSQL: Spatio-Temporal Precipition Anmination, 2nd Approach.
 
 Produce another precipitation video for a period of 40 days in 2020 (recent hourly precipitation data in BAVARIA) by means of your own **PostGIS geodatabase**. Follow the **Jupyter Notebook tutorial** of [geo0930_PostGIS_Insert_DWD_Stations_and_TS](https://github.com/rolfbecker/opengeo/tree/main/geo0930_PostGIS_Insert_DWD_Stations_and_TS) together with the respective **YouTube tutorial** (search for geo0930 on YouTube). 
 
 The new [opengeo repository](https://github.com/rolfbecker/opengeo) is under construction. I am using it to reorganize my teaching material. It will be filled step by step. 
 
-## 6. FREE EXERCISE
-
-Do something exiting!
