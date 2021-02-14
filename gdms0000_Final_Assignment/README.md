@@ -85,14 +85,7 @@ Notice that one polygon might contain more than one NDVI value (more than 1 pixe
 **ATTENTION: Some of you have already chosen a different approach. This is totally acceptable!** We just want you to analyse Sentinel-2 images with respect to NDVI and its changes over time (here: only two years) as well as to reflect power and limitations of remote sensing.
 
 
-## 4. PostGIS / PostgreSQL: Spatio-temporal precipition anmination, 2nd approach.
-
-Produce another precipitation video for a period of 40 days in 2020 (recent hourly precipitation data in BAVARIA) by means of your own **PostGIS geodatabase**. Follow the **Jupyter Notebook tutorial** of [geo0930_PostGIS_Insert_DWD_Stations_and_TS](https://github.com/rolfbecker/opengeo/tree/main/geo0930_PostGIS_Insert_DWD_Stations_and_TS) together with the respective **YouTube tutorial** (search for geo0930 on YouTube). 
-
-The new [opengeo repository](https://github.com/rolfbecker/opengeo) is under construction. I am using it to reorganize my teaching material. It will be filled step by step. 
-
-
-## 5. Digitization: Burial mounds in Uedemer Hochwald
+## 4. Digitization: Burial mounds in Uedemer Hochwald
 
 <img src="images/Burial_Mounds.png" alt="Burial Mounds Map" width="600" border="10" /><br>
 *Fig.: Burial mounds in Uedemer Hochwald.*
@@ -110,9 +103,17 @@ South west of the village Marienbaum (belongs to Xanten municipality) is the for
 
 **Task 5:** Study the hillshade model in direction East-North-East of the burial mounds area and search for regular structures which are not paths. What do you observe? Do you have a guess about the origin of these patterns?
 
-## 6. FREE EXERCISE
+## 5. FREE EXERCISE
 
 Do something exiting!
+
+## 6. Extra Task - PostGIS / PostgreSQL: Spatio-temporal precipition anmination, 2nd approach.
+
+Produce another precipitation video for a period of 40 days in 2020 (recent hourly precipitation data in BAVARIA) by means of your own **PostGIS geodatabase**. Follow the **Jupyter Notebook tutorial** of [geo0930_PostGIS_Insert_DWD_Stations_and_TS](https://github.com/rolfbecker/opengeo/tree/main/geo0930_PostGIS_Insert_DWD_Stations_and_TS) together with the respective **YouTube tutorial** (search for geo0930 on YouTube). 
+
+The new [opengeo repository](https://github.com/rolfbecker/opengeo) is under construction. I am using it to reorganize my teaching material. It will be filled step by step. 
+
+
 
 
 
