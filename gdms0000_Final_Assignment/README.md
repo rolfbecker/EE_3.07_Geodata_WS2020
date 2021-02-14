@@ -1,4 +1,4 @@
-# !DRAFT! <br>EE_3.07 Geodata Management Systems - Final Assignment <br>!DRAFT!
+# EE_3.07 Geodata Management Systems - Final Assignment
 
 
 ## 0. General Remarks
@@ -35,7 +35,7 @@ Selecting the menu item *Processing -> Toolbox* toggles the visibility of the To
 
 Add another field to the DWD stations attribute table with the altitudes sampled from the DTM. Compare the original altitudes from the DWD station file to the heights derived from the DTM. Where and why are the strongest deviations? 
 
-**Task 4:** Plot the mean annual temperatures versus the DTM heights for the DWD stations in Bavaria. Do you find a ways to perform a linear regression to the data with numpy? What is the temperature gradient, i.e. slope of regression line in units K/m or °C/m?
+**Task 4:** Plot the mean annual temperatures versus the DTM heights for the DWD stations in Bavaria. Do you find a ways to perform a linear regression to the data with numpy? What is the temperature gradient, i.e. the slope of the regression line in units K/m or °C/m?
 
 
 ## 2. DWD Precipitation Measurements in Bavaria: Create Movie with QGIS Time Manager
@@ -52,7 +52,6 @@ _Fig.: YouTube video showing the temporal evolution of DWD precipitation data in
 THe processing chain consisting of Python code and QGIS project to create the video is found in the Git folder [**gdms0350_DWD_Stations_and_TS_for_TM_soln**](../gdms0350_DWD_Stations_and_TS_for_TM_soln/)
 
 **Task 1:**  Produce your own video **for BAVARIA** by applying the processing chain to a period of **40 days** covering an **interesting rain event in 2017**. You have to use the **historical hourly precipitation data in 2017**. Find an interesting sequence of rain events first by plotting a few time series. 
-You should not cover more than two weeks for the video sequence to minimize the processing time.
 
 
 ## 3. Compare NDVI for Two Different Years
@@ -83,6 +82,9 @@ Notice that one polygon might contain more than one NDVI value (more than 1 pixe
 
 
 ## PostGIS / PostgreSQL
+
+Produce another precipitation video for a period of 40 days in 2020 by means of your own **PostGIS geodatabase**. Follow the **tutorial** [geo0930_PostGIS_Insert_DWD_Stations_and_TS](https://github.com/rolfbecker/opengeo/tree/main/geo0930_PostGIS_Insert_DWD_Stations_and_TS) stored in the new [opengeo repository](https://github.com/rolfbecker/opengeo). The opengeo repository is under construction. I am using it to reorganize my rteaching material. It will be filled step by step. 
+
 
 ## Digitization
 
