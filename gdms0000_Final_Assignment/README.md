@@ -1,5 +1,4 @@
 # EE_3.07 Geodata Management Systems - Final Assignment
-Test
 
 ## 0. General Remarks
 
@@ -62,22 +61,17 @@ Produce your own video **for BAVARIA** by applying the processing chain to a per
 ## 3. Compare NDVI for Two Different Years
 
 In the last lectures, we talked about remote sensing and how we could use satellite data (Sentinel-2) to obtain information about the earth’s surface based on the spectral properties (i.e. spectral reflectance) of materials such as vegetation and soil without being in contact with the surface itself. We discussed how normalized difference vegetation index (NDVI) can be used to assess the plant´s ability to absorb solar radiation and use this to characterize the plant’s health.
-Your task is to analyse the NDVI in the summer periods (May-June) of the years 2018 and 2019 in your own regions of interest (ROI). Define your own ROIs by creating polygons delineating areas with one landuse class per polygon. You should create at least one polygon for each of the following landuse classes:
+Your task is to analyse the NDVI in the summer periods (May-June) of two consecutive years between 2016 and 2019 in your own regions of interest (ROI). Define your own ROIs by creating polygons delineating areas with one landuse class per polygon. You should create at least one polygon for each of the following landuse classes:
 * Forest
 * Water
 * Crop Field
 * Grassland (not artificially irrigated)
 * Urban Area
 
-To save time we identified five Sentinel products atmospherically corrected (Level 2A) and with low cloud coverage. Select (at least) **two appropriate satellite scenes** from the following list covering both years 2018 and 2019. Download and store them in an appropriate folder. 
- 
-| Date | Product’s name | Link |
-| :---:  | :---: | :---: |
-| 2018-06-30 | S2A_MSIL2A_20180630T105031_<br>N0208_R051_T31UGT_20180630T144133.SAFE | https://scihub.copernicus.eu/dhus/odata/v1/Products('2cdf37bf-5541-464c-8181-9069d80447c4')/$value | 
-| 2018-05-11 | S2A_MSIL2A_20180511T105031_<br>N0207_R051_T32ULC_20180511T111332.SAFE | https://scihub.copernicus.eu/dhus/odata/v1/Products('57afb6dc-f32b-4b7b-8d54-d655251a0d5e')/$value | 
-| 2018-04-06 | S2B_MSIL2A_20180406T105029_<br>N0207_R051_T32ULC_20180406T125448.SAFE | https://scihub.copernicus.eu/dhus/odata/v1/Products('4edd776f-276b-4f5d-98f9-0ef7b18aa138')/$value |
-| 2019-06-27 | S2B_MSIL2A_20190627T104029_<br>N0212_R008_T31UGT_20190627T135004.SAFE | https://scihub.copernicus.eu/dhus/odata/v1/Products('bb9423ca-e076-41aa-830d-6afa8661df89')/$value |
-| 2019-05-13 | S2A_MSIL2A_20190513T104031_<br>N0212_R008_T32ULC_20190513T134155.SAFE| https://scihub.copernicus.eu/dhus/odata/v1/Products('1bdaa4fe-84d8-44e0-8832-fe0e286959f6')/$value |
+To save time we identified some Sentinel products atmospherically corrected (Level 2A) and with low cloud coverage and we saved them in the following link.
+https://hochschule-rhein-waal.sciebo.de/s/71xJEtbTn5b93gg
+
+Select (at least) **two appropriate satellite scenes** from the files provided covering two consecutive years between 2016 and 2019 (eg. 2016-05-08 and 2017-05-26). Download and store them in an appropriate folder. 
 
 What does the difference of NDVI tell you for each polygon? Is NDVI enough to classify the different landuses?  
 Notice that one polygon might contain more than one NDVI value (more than 1 pixel). So in order to estimate the NDVI for the whole area, you can calculate the statistical mean. 
