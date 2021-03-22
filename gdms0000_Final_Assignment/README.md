@@ -2,7 +2,7 @@
 
 ## 0. General Remarks
 
-1. Due date is **2021-03-21**. 
+1. Due date is **2021-03-28**. 
 1. You do not have to write a formal report but you have to sketch the steps you have taken to do the analyses. Your documentation has to enable us to redo your work completely again! 
 1. Use your own GitLab repository to document your work. THIS IS MANDATORY! Use a `REAMDE.md` file (and more .md-files, if needed) to describe your work. Upload your Python scripts as well as QGIS projects without large datasets to the repository.
 1. Use Jupyter Notebook markdown cells to describe your Python code. 
